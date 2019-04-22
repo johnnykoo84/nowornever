@@ -1,21 +1,19 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello Gatsby
+date: "2019-04-23T22:12:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first gatsby static blog/TIL posting!! How exiciting
 
-I'm sure I'll write a lot more interesting things in the future.
+From this point, I'm not sure if I write this in ENG or KOR, but whatever, I'd do it whatever I want, becaus this is my place and nobody but me has a power here :)
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+What's cool about this platform is, I can use markdown. I love markdown!!
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+# h1
 
-![Chinese Salty Egg](./salty_egg.jpg)
+## h2
+
+### h3
+
+1. hello 1
+2. hello 2
